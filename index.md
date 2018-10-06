@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zhaoyulong1/boke/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhaoyulong1/boke/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Matlab2016神秘版本,安装和使用教程**
+===
++ 安装包
+---
+[云盘链接](https://pan.baidu.com/s/19SC-S9igBMdT1NjbSo3FrA "破解版") **密码**：*b6ir*
++ 安装教程
+1. 下载3个包
+2. 解压,其中两个iso解压到同一个文件夹下.  crack是破解包
+3. 安装密钥
+    09806-07443-53955-64350-21751-41297
+5. 将crack中的MATLAB Production Server\R2016a\bin\win64 中的dll文件替换到安装目录R2016a\bin\win64下
+6. 进入matlab的程序安装目录(不是安装包目录)的bin下,打开matlab.exe选择crack中的license_standalone.lic 激活
+7. 将matlab.exe创建快捷方式到桌面,破解安装成功
